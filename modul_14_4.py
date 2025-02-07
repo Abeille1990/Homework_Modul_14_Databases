@@ -8,7 +8,7 @@ import asyncio
 from time import sleep
 from crud_functions import *
 
-api = '8199490075:AAEzUjpNsw1J7M-oPJ5-Vhdnx5qEjoeRr_U'
+api = ''
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
